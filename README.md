@@ -49,7 +49,7 @@ learning   = ["SQL", "Pandas", "Machine Learning basics"]
 
 I'm open to collaborating on projects, hackathons, or anything interesting.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jashanpreet-singh)
+[![LinkedIn](https://www.linkedin.com/in/jashanpreet-singh-a57384370/)
 [![GitHub](https://img.shields.io/badge/GitHub-jashan2128-181717?style=flat&logo=github)](https://github.com/jashan2128)
 
 ---
