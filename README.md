@@ -9,7 +9,7 @@
 
 I'm a first year CSE-DS student who likes building real projects, not just assignment code. Currently learning how data can solve problems that actually matter to people.
 
-- 🎓 &nbsp; B.TECH in Computer Science (Data Science) — 2nd year incoming
+- 🎓 &nbsp; B.E in Computer Science (Data Science) — 2nd year incoming
 - 🌱 &nbsp; Currently learning — Data Structures, Python for Data Science, SQL
 - 🛠️ &nbsp; I build small tools and deploy them. If it's not live, it doesn't count
 - 📍 &nbsp; Based in Bengaluru, India
@@ -49,7 +49,7 @@ learning   = ["SQL", "Pandas", "Machine Learning basics"]
 
 I'm open to collaborating on projects, hackathons, or anything interesting.
 
-[![LinkedIn](https://www.linkedin.com/in/jashanpreet-singh-a57384370/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jashanpreet-singh-a57384370/)
 [![GitHub](https://img.shields.io/badge/GitHub-jashan2128-181717?style=flat&logo=github)](https://github.com/jashan2128)
 
 ---
