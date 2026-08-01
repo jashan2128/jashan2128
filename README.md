@@ -20,7 +20,7 @@
 ## About me
 I'm a first year CSE-DS student who likes building real projects, not just assignment code. Currently learning how data can solve problems that actually matter to people.
 
-- 🎓 &nbsp; B.E in Computer Science (Data Science) — 2nd year incoming
+- 🎓 &nbsp; B.TECH in Computer Science (Data Science) — 2nd year incoming
 - 🌱 &nbsp; Currently learning — Data Structures, Python for Data Science, SQL
 - 🛠️ &nbsp; I build small tools and deploy them. If it's not live, it doesn't count
 - 📍 &nbsp; Based in Bengaluru, India
