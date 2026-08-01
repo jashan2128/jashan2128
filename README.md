@@ -1,12 +1,23 @@
-# Hey, I'm Jashanpreet Singh 👋
+<div align="center">
 
-> CSE (Data Science) student at Dayananda Sagar University · Bengaluru
-> Building things that actually get used.
+<h3><code>jashan@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>jashan@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./jashan-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ## About me
-
 I'm a first year CSE-DS student who likes building real projects, not just assignment code. Currently learning how data can solve problems that actually matter to people.
 
 - 🎓 &nbsp; B.E in Computer Science (Data Science) — 2nd year incoming
@@ -18,7 +29,6 @@ I'm a first year CSE-DS student who likes building real projects, not just assig
 ---
 
 ## Skills
-
 ```python
 languages  = ["Python", "C"]
 currently  = ["Data Structures & Algorithms", "Data Analysis", "Git & GitHub"]
@@ -28,7 +38,6 @@ learning   = ["SQL", "Pandas", "Machine Learning basics"]
 ---
 
 ## Projects
-
 | Project | What it does | Live |
 |--------|-------------|------|
 | ⚔️ **Dev vs Dev Battle Card** | Compares two GitHub profiles in a live stat-by-stat battle. Real data, no API key needed. | [Try it live](https://jashan2128.github.io/Dev-Battles) |
@@ -38,17 +47,13 @@ learning   = ["SQL", "Pandas", "Machine Learning basics"]
 ---
 
 ## GitHub stats
-
 ![Jashanpreet's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jashan2128&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jashan2128&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=jashan2128&theme=tokyonight&hide_border=true)
 
 ---
 
 ## Let's connect
-
 I'm open to collaborating on projects, hackathons, or anything interesting.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jashanpreet-singh-a57384370/)
@@ -59,5 +64,4 @@ I'm open to collaborating on projects, hackathons, or anything interesting.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jashan2128&color=7c6fff&style=flat&label=Profile+views" alt="profile views"/>
 </p>
-
 <p align="center"><i>"Build things. Deploy them. Repeat."</i></p>
